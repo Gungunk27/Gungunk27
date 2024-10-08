@@ -1,5 +1,5 @@
 # 💫 Hello World!
-🔭 I’m currently working on Data Analysis Projects,Product and Business Case Studies.<br>👯I’m looking to collaborate with professionals and organizations in the fields of data analysis, business strategy, and finance.🤝 I’m looking for help with<br>🌱 I’m currently learning Advanced Data Analysis Techniques,Financial Analysis and Modeling, and Product Management.<br>
+🔭 I’m currently working on Data Analysis Projects, Product and Business Case Studies.<br>👯I’m looking to collaborate with professionals and organizations in the fields of Data Analysis, Business Strategy and Finance.🤝 I’m looking for help with<br>🌱 I’m currently learning Advanced Data Analysis Techniques, Financial Analysis and Modeling, and Product Management.<br>
 
 
 ## 🌐 Socials:
